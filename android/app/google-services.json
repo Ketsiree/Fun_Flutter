@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368780715718",
+    "firebase_url": "https://funny-app-f46b9.firebaseio.com",
+    "project_id": "funny-app-f46b9",
+    "storage_bucket": "funny-app-f46b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368780715718:android:06be62905416d3c94399c7",
+        "android_client_info": {
+          "package_name": "com.example.funny_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368780715718-nh6st49tjahsorm6jbho6akb4fver7vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2EeZDNhZK_Kclyn96AFBw8tBtmmWrukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368780715718-nh6st49tjahsorm6jbho6akb4fver7vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
